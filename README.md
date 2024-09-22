@@ -53,4 +53,4 @@ Penghapusan data dilakukan pada tabel Barang dimana pengguna memilih data pada t
 Aplikasi CRUD dengan Java Swing dan JDBC adalah solusi yang baik untuk operasi dasar pada database yaitu Create, Read, Update, dan Delete. Java Swing membantu dalam tampilan yang menarik sementara JDBC memastikan java terhubung dengan database.
 
 ---
-**📖Semoga README ini membantu dalam memahami dan menggunakan Java Swing untuk pengembangan aplikasi GUI!💡**
+## 📖Semoga README ini membantu dalam memahami dan menggunakan Java Swing untuk pengembangan aplikasi GUI!💡
