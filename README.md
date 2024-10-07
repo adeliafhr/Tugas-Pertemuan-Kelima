@@ -9,7 +9,7 @@ Membuat aplikasi GUI dengan CRUD menggunakan Java Swing dan JDBC
 - [Penerapan CRUD](https://github.com/adeliafhr/Tugas-Pertemuan-Kelima/blob/main/Barang.java)
 ---
 ## 🌐 Koneksi Database dengan JDBC
-JDBC atau Java Database Connection digunakan untuk menghubungkan aplikasi dengan database.
+`JDBC` atau Java Database Connection digunakan untuk menghubungkan aplikasi dengan database.
 ### Langkah - Langkah untuk Menghubungkan :
 1. Menambahkan driver JDBC yang sesuai dan membuat objek Connection menggunakan DriverManager.
 2. Setelah terhubung, buat object statement dan preparedStatement untuk menjalankan pernyataan SQL
@@ -19,7 +19,7 @@ JDBC atau Java Database Connection digunakan untuk menghubungkan aplikasi dengan
 
 ---
 ## ⚙️ Db Utils 
-Db Utils atau Database Utilities digunakan untuk mengonversi hasil query dari database (ResultSet) menjadi model tabel yang ditampilkan pada *JTable* 
+Db Utils atau `Database Utilities` digunakan untuk mengonversi hasil query dari database (ResultSet) menjadi model tabel yang ditampilkan pada `JTable`
 ### Langkah - Langkah : 
 1. Input paramater yaitu ResutlSet yang berisi data yang diambil dari database
 2. Ambil MetaData kolom menggunakan ResultSetMetaData
